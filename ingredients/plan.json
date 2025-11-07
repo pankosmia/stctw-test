@@ -1,0 +1,125 @@
+{
+	"name": "Stories That Changed the World",				
+	"description": "The story of the Creator God revealing His love throughout history and carrying His plan to restore an incredible relationship with you - and with every other person who has ever lived. It opens with a story before the beginning and ends with life after the end!",
+	"copyright": "© William J. Dubois",
+	"sectionStructure": [
+		{
+			"type": "paraField",
+			"name": "sectionNumber",
+			"paraTag": "ms2"
+		},
+		{
+			"type": "paraField",
+			"name": "sectionTitle",
+			"paraTag": "ms"
+		},
+		{
+			"type": "paraField",
+			"name": "themeTitle",
+			"paraTag": "is2"
+		},
+		{
+			"type": "paraField",
+			"name": "themeBody",
+			"paraTag": "ip"
+		},
+		{
+			"type": "paraField",
+			"name": "referenceTitle",
+			"paraTag": "is2"
+		},
+		{
+			"type": "paraField",
+			"name": "reference",
+			"paraTag": "mr"
+		},
+		{
+			"type": "paraField",
+			"name": "introTitle",
+			"paraTag": "is2"
+		},
+		{
+			"type": "paraField",
+			"name": "introBody",
+			"paraTag": "ip"
+		},
+		{
+			"type": "paraField",
+			"name": "scriptureTitle",
+			"paraTag": "is2"
+		},
+		{
+			"type": "scripture"
+		},
+		{
+			"type": "paraField",
+			"name": "principleTitle",
+			"paraTag": "is2"
+		},
+		{
+			"type": "paraField",
+			"name": "principle",
+			"paraTag": "ip"
+		}
+	],		
+	"fieldInitialValues": {
+		"sectionNumber": "Story 1",
+		"themeTitle": "Theme",
+		"referenceTitle": "Scripture Text",
+		"scriptureTitle": "The Story",
+		"principleTitle": "Key Principle",
+		},
+	"sections": [
+		{
+			"bookCode": "GEN",
+			"fieldInitialValues": {
+				"sectionTitle": "How it All Began",
+				"themeBody": "In the beginning, before there was anything, there was God. He is love and desired nothing more than to reveal His love to every person. He took something formless and dark and created beauty. He called it the heavens and the earth and then placed men and women in the midst of this garden to enjoy Him and His creation.",
+				"reference": "Genesis 1:1 - 2:2",
+				"principle": "God is the Creator of everything.\n\nGod created the heavens and the earth and everything in it. He made man and woman in His own image and placed them in the midst of His creation to enjoy Him and His creation. He gave humankind the responsibility to care for His creation."
+			},
+			"paragraphs": [
+				{
+					"paraTag": "p",
+					"units": ["1:1", "1:2"]
+				},
+				{
+					"paraTag": "p",
+					"units": ["1:3", "1:4", "1:5"]
+				},
+				{
+					"paraTag": "p",
+					"units": ["1:6", "1:7", "1:8"]
+				},
+				{
+					"paraTag": "p",
+					"units": ["1:9", "1:10", "1:11", "1:12", "1:13"]
+				},
+				{
+					"paraTag": "p",
+					"units": ["1:14", "1:15", "1:16", "1:17", "1:18", "1:19"]
+				},
+				{
+					"paraTag": "p",
+					"units": ["1:20", "1:21", "1:22", "1:23"]
+				},
+				{
+					"paraTag": "p",
+					"units": ["1:24", "1:25"]
+				},
+				{
+					"paraTag": "p",
+					"units": ["1:26", "1:27", "1:28", "1:29", "1:30"]
+				},
+				{
+					"paraTag": "p",
+					"units": ["1:31"]
+				},
+				{
+					"paraTag": "p",
+					"units": ["2:1", "2:2"]
+				}
+			]
+		}
+	]
+}
