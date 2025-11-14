@@ -67,11 +67,12 @@
 		"themeTitle": "Theme",
 		"referenceTitle": "Scripture Text",
 		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle",
+		"principleTitle": "Key Principle"
 		},
 	"sections": [
 		{
 			"bookCode": "GEN",
+			"cv":["1:1","2:2"],
 			"fieldInitialValues": {
 				"sectionTitle": "How it All Began",
 				"themeBody": "In the beginning, before there was anything, there was God. He is love and desired nothing more than to reveal His love to every person. He took something formless and dark and created beauty. He called it the heavens and the earth and then placed men and women in the midst of this garden to enjoy Him and His creation.",
