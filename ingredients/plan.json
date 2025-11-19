@@ -2,6 +2,8 @@
 	"name": "Stories That Changed the World",
 	"description": "The story of the Creator God revealing His love throughout history and carrying His plan to restore an incredible relationship with you - and with every other person who has ever lived. It opens with a story before the beginning and ends with life after the end!",
 	"copyright": "© William J. Dubois",
+  "short_name": "35 Stories",
+  "version": "0.1-Draft",
 	"sectionStructure": [
 		{
 			"type": "paraField",
@@ -72,2365 +74,2332 @@
         "paraTag": "ip"
     }
 	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 1",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "GEN",
-			"cv":["1:1","2:3"],
-			"fieldInitialValues": {
-				"sectionTitle": "How it All Began",
-				"themeBody": "In the beginning, before there was anything, there was God. He is love and desired nothing more than to reveal His love to every person. He took something formless and dark and created beauty. He called it the heavens and the earth and then placed man and woman in the midst of this garden to enjoy Him and His creation.",
-				"reference": "Genesis 1:1 - 2:3",
-				"principle": "God is the Creator of everything.",
-				"principleMore": "God created the heavens and the earth and everything in it. He made man and woman in His own image and placed them in the midst of His creation to enjoy Him and His creation. He gave humankind the responsibility to care for His creation."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["1:1", "1:2"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["1:3", "1:4", "1:5"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["1:6", "1:7", "1:8"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["1:9", "1:10", "1:11", "1:12", "1:13"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["1:14", "1:15", "1:16", "1:17", "1:18", "1:19"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["1:20", "1:21", "1:22", "1:23"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["1:24", "1:25"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["1:26", "1:27", "1:28", "1:29", "1:30"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["1:31"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:1", "2:2", "2:3"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 2",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "GEN",
-			"cv":["2:4","2:25"],
-			"fieldInitialValues": {
-				"sectionTitle": "God made Man, Woman, and the Garden",
-				"themeBody": "God created man and woman in His image and for His purpose. He placed them in a perfect place, the Garden of Eden, to enjoy fellowship with God and with one another. Their purpose was to grow His garden and expand across the whole earth.",
-				"reference": "Genesis 2:4-25",
-				"principle": "God desires fellowship with humankind.",
-				"principleMore": "God placed man and woman in a beautiful garden for their enjoyment, but warned them not to eat from the tree of the knowledge of good and evil. God desired to fellowship with them, to enjoy the garden together, and to grow it throughout the whole earth."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["2:4", "2:5", "2:6", "2:7", "2:8", "2:9", "2:10", "2:11", "2:12", "2:13", "2:14", "2:15", "2:16", "2:17"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:18", "2:19", "2:20", "2:21", "2:22", "2:23", "2:24", "2:25"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 3",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"introTitle": "Introduction",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "GEN",
-			"cv":["3:1","3:24"],
-			"fieldInitialValues": {
-				"sectionTitle": "How Evil Destroyed Man, Woman, and the Earth",
-				"themeBody": "God placed Adam and Eve in His garden so that they could enjoy perfect fellowship with Him. But Adam and Eve rebelled against God’s best and allowed evil to forever change their relationship with God and with one another.",
-				"reference": "Genesis 3",
-				"introBody": "The LORD God took the man, and put him into the garden of Eden to cultivate and keep it. The LORD God commanded the man, saying, “You may freely eat of every tree of the garden; but you shall not eat of the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”",
-				"principle": "God is good, but evil destroys. Everyone is responsible for their choices: good or evil.",
-				"principleMore": "Adam and Eve chose to disobey God and ate of the forbidden fruit. Recognizing their own sin, they hid from God’s presence. God gave them clothes and cared for them, but the consequences of their own actions forced them to leave the perfect peace of the Garden."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["3:1"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:2", "3:3"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:4", "3:5"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:6", "3:7", "3:8"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:9"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:10"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:11"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:12"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:13"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:14", "3:15"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:16"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:17", "3:18", "3:19"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:20", "3:21"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:22", "3:23", "3:24"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 4",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "GEN",
-			"cv":["6:11","9:7"],
-			"fieldInitialValues": {
-				"sectionTitle": "Noah and the Great Flood",
-				"themeBody": "The earth became corrupt because of humanity's evil behavior and violence. Out of His own mercy, God sent a flood to cover the earth to destroy evil, but first instructed a righteous man, Noah, to build a boat to rescue his family and all the animals of the earth.",
-				"reference": "Genesis 6:11 - 9:7",
-				"principle": "God cannot co-exist with evil, and His judgment brings mercy to the righteous and destruction to the evil.",
-				"principleMore": "Humanity continued to rebel against God’s best ways, and evil increased on the earth. God decided to destroy the earth and re-create it with His beauty. He instructed Noah to build a boat for his family’s safety, then flooded the earth with water. After one year, the floods came down, and God sent a rainbow to remind people that He would never again destroy the earth."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["6:11", "6:12"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["6:13", "6:14", "6:15", "6:16", "6:17", "6:18", "6:19", "6:20", "6:21", "6:22"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["7:1", "7:2", "7:3", "7:4"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["7:5"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["7:6", "7:7", "7:8", "7:9", "7:10", "7:11", "7:12"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["7:13", "7:14", "7:15", "7:16", "7:17", "7:18", "7:19", "7:20", "7:21", "7:22", "7:23", "7:24"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["8:1", "8:2", "8:3", "8:4", "8:5"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["8:6", "8:7", "8:8", "8:9", "8:10", "8:11", "8:12"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["8:13", "8:14"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["8:15", "8:16", "8:17"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["8:18", "8:19"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["8:20", "8:21", "8:22"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["9:1", "9:2", "9:3", "9:4", "9:5", "9:6", "9:7"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 5",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "GEN",
-			"cv":["11:1","12:7"],
-			"fieldInitialValues": {
-				"sectionTitle": "The Tower of Babel and the Call of Abraham",
-				"themeBody": "Men gathered together to build the Tower of Babel and show that they could reach heaven with their own achievements. They chose to exalt themselves with pride and self-worship, so God gave them multiple languages and scattered them throughout the earth. However, God found a man named Abraham who was willing to leave what he was building and follow Him. When Abraham chose God and not his own way, God blessed him and his descendants forever.",
-				"reference": "Genesis 11:1 - 12:7",
-				"principle": "God blesses people who respond to His love, but scatters those who choose their own way.",
-				"principleMore": "Men gathered together to build the Tower of Babel as a monument to their own kingdom, power, and ability. God confused them by giving each one a different language and scattering them throughout the earth. But Abraham chose to follow God and build His Kingdom, so God blessed and prospered him."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["11:1", "11:2", "11:3", "11:4"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["11:5", "11:6", "11:7", "11:8", "11:9"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["11:10", "11:11"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["11:12", "11:13"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["11:14", "11:15"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["11:16", "11:17"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["11:18", "11:19"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["11:20", "11:21"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["11:22", "11:23"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["11:24", "11:25"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["11:26"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["11:27", "11:28", "11:29", "11:30", "11:31", "11:32"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:1", "12:2", "12:3"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:4", "12:5", "12:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:7"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 6",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "GEN",
-			"cv":["22:1","22:19"],
-			"fieldInitialValues": {
-				"sectionTitle": "Abraham and Isaac",
-				"themeBody": "God tested Abraham’s faith to see if he loved the promise and the reward more than his relationship with God. Abraham chose God, and God provided a sacrifice of worship to deepen their relationship together.",
-				"reference": "Genesis 22:1-19",
-				"principle": "God desires a relationship with you based on love, not a system of rewards, promises, or performance.",
-				"principleMore": "God tested Abraham to see if he desired the promise more than a relationship with the Giver of the promise. When Abraham obeyed and was willing to sacrifice even his own promised son, God rescued Isaac and rewarded Abraham and his descendants forever."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["22:1"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["22:2"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["22:3", "22:4", "22:5", "22:6", "22:7"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["22:8", "22:9", "22:10"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["22:11"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["22:12"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["22:13", "22:14"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["22:15", "22:16", "22:17", "22:18"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["22:19"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 7",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "GEN",
-			"cv":["37:1","45:28"],
-			"fieldInitialValues": {
-				"sectionTitle": "Joseph Honored God in Every Circumstance",
-				"themeBody": "Joseph was the favorite son of Jacob and the chosen son of Isaac. His brothers, filled with envy, sold him into slavery. But Joseph was faithful to God and honored Him in every circumstance. Through many trials and tests, God eventually exalted him as Prime Minister of Egypt, delivering God’s chosen people in times of great famine and difficulty.",
-				"reference": "Genesis 37; 39:22 - 40:4; 45:1-11, 25-28",
-				"principle": "God honors those who follow Him and turns every evil intent to a good outcome.",
-				"principleMore": "God chose Joseph from among his brothers to rule over them and to provide for his father’s house during a time of famine. When his brothers’ evil actions caused a series of hardships, Joseph responded to each one by honoring God and living a life of righteousness and integrity. God used the evil intent of others and turned it for the good of His servant Joseph."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["37:1", "37:2", "37:3"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["37:4", "37:5", "37:6", "37:7"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["37:8", "37:9", "37:10", "37:11"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["37:12", "37:13"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["37:14", "37:15"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["37:15"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["37:16", "37:17"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["37:19", "37:19", "37:20"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["37:21", "37:22", "37:23", "37:24"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["37:25", "37:26", "37:27", "37:28"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["37:29", "37:30", "37:31", "37:32"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["37:33", "37:34", "37:35", "37:36"]
-				},
-				{
-					"abridgement": "Joseph served faithfully in Potiphar's house but was betrayed by Potiphar's wife and sent to jail."
-				},
-				{
-					"paraTag": "p",
-					"units": ["39:20", "39:21", "39:22", "39:23"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["40:1", "40:2", "40:3", "40:4"]
-				},
-				{
-					"abridgement": "Both of these prisoners came to know that Joseph was able to interpret dreams. After they had been in custody for some time, one was killed and the other, a cup-bearer, was promoted to Pharaoh’s court. Two years later, the cup-bearer remembered Joseph and told Pharaoh that Joseph would be able to interpret his troubling dream. God gave Joseph the ability to interpret Pharaoh’s dream warning of seven years of famine. Pharaoh rewarded Joseph for interpreting the dream by making him second in command over all the land."
-				},
-				{
-					"abridgement": "When famine came, just as the dream foretold, the brothers of Joseph came to Egypt looking for food. Joseph provided them food, sent them back to their father, but kept one brother in Egypt to ensure their return."
-				},
-				{
-					"paraTag": "p",
-					"units": ["45:1", "44:2", "44:3"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["45:4", "45:5", "45:6", "45:7", "45:8", "45:9", "45:10", "45:11", "45:12", "45:13", "45:14", "45:15"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["45:16", "45:17", "45:18", "45:19", "45:20"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["45:21", "45:22", "45:23", "45:24"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["45:25", "45:26", "45:27", "45:28"]
-				},
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 8",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"introTitle": "Introduction",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "EXO",
-			"cv":["3:1","3:22"],
-			"fieldInitialValues": {
-				"sectionTitle": "God Speaks to Moses Through a Burning Bush",
-				"themeBody": "God hears the cries of His people suffering under slavery in Egypt and calls Moses to be His spokesman and deliver them from evil.",
-				"reference": "Exodus 3",
-				"introBody": "Hundreds of years later, still in Egypt, a baby named Moses was born to a descendant of Abraham, Isaac, and Jacob. At this time, the Egyptian government leaders treated the Israelites harshly and intended to harm them. Raised in Pharaoh’s court, Moses’ anger toward the Egyptians drove him to kill an Egyptian man. He fled for his life from Egypt at the age of 40 and lived in the wilderness for another 40 years.",
-				"principle": "God hears every prayer and sends people to share His love.",
-				"principleMore": "God hears the cries of His people in Egypt and chooses Moses to be His spokesman and to deliver His people from the hands of an evil Egypt. When Moses asks, ‘Who shall I say has sent me?’ God replies, 'Tell them that the I AM has sent you—the One who was, who is, and who shall be.'"
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["3:1", "3:2", "3:3"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:4"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:5", "3:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:7", "3:8", "3:9", "3:10"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:11"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:12"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:13"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:14", "3:15", "3:16", "3:17", "3:18", "3:19", "3:20", "3:21", "3:22"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 9",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"introTitle": "Introduction",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "EXO",
-			"cv":["11:4","14:31"],
-			"fieldInitialValues": {
-				"sectionTitle": "God Rescues His People from Egypt",
-				"themeBody": "God redeems His people from the evil leader of Egypt. An angel of death passes through the nation, passing over each family that has sacrificed an unblemished lamb, but killing the firstborn of every other family. God then leads His people on a journey out of Egypt and toward the Promised Land.",
-				"reference": "Exodus 11:4 - 12:36; 14",
-				"introBody": "God sent nine plagues to Pharaoh and the Egyptian people in hopes that they would repent and allow the children of Israel to return to the Promised Land. But Pharaoh’s heart was stubborn, and he refused to release Moses and his people.",
-				"principle": "God rescues His people from evil.",
-				"principleMore": "When Pharaoh, the evil leader of Egypt, refused to let the Israelites return to their Promised Land, God sent plagues, hardship, and disaster on their land. Eventually, the Israelites were delivered by God out of the hands of Egypt by crossing the Red Sea on dry land."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["11:1", "11:2", "11:3", "11:4", "11:5", "11:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["11:7", "11:8"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:1", "12:2", "12:3", "12:4", "12:5", "12:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:7", "12:8"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:9", "12:10", "12:11", "12:12", "12:13"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:14", "12:15"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:16", "12:17", "12:18", "12:19", "12:20"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:21", "12:22"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:23"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:24"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:25"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:26"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:27"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:28"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:29"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:30"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:31"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:32"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:33"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:34"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:35"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["12:36"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:1", "14:2"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:3"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:4", "14:5", "14:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:7"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:8", "14:9", "14:10", "14:11"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:12"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:13"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:14"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:15"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:16"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:17"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:18", "14:19"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:20", "14:21"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:22"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:23"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:24"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:25"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:26"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:27"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:28", "14:29"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:30", "14:31"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 10",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "EXO",
-			"cv":["19:1","20:21"],
-			"fieldInitialValues": {
-				"sectionTitle": "God Gives His People A Standard By Which to Live",
-				"themeBody": "God invites Moses to His mountain and writes on tablets of stone the Ten Commandments that are to be the foundation of humankind’s relationship with God.",
-				"reference": "Exodus 19:1 - 20:21",
-				"principle": "God has given us a standard by which to live.",
-				"principleMore": "God desired a relationship with the Israelites and invited them to be near Him, but the people were afraid. God provided the 10 Commandments as eternal guidelines to help people live right and recognize their need for God."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["19:1", "19:2", "19:3", "19:4", "19:5", "19:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["19:7", "19:8"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["19:9", "19:10", "19:11", "19:12", "19:13"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["19:14", "19:15"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["19:16", "19:17", "19:18", "19:19", "19:20"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["19:21", "19:22"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["19:23"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["19:24"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["19:25"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["20:1", "20:2"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["20:3"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["20:4", "20:5", "20:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["20:7"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["20:8", "20:9", "20:10", "20:11"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["20:12"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["20:13"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["20:14"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["20:15"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["20:16"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["20:17"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["20:18", "20:19"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["20:20", "20:21"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 11",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "NUM",
-			"cv":["13:1","14:25"],
-			"fieldInitialValues": {
-				"sectionTitle": "Moses Sends Spies into the Promised Land",
-				"themeBody": "God assures Moses and His chosen people that He has provided a land filled with His abundance. Spies are sent out to confirm God’s truth, but the people choose to live in fear of their enemies rather than faith in God’s word.",
-				"reference": "Numbers 13:1 - 14:25",
-				"principle": "God promises abundance to those who walk by faith and believe in His promises.",
-				"principleMore": "God promised a beautiful land and an abundant life to all those who would fear and obey Him. When the spies were sent out to confirm God’s plan, they returned with a different story and became afraid of their circumstances instead. God chose to bless Joshua and Caleb because they trusted in Him, but did not allow the others to enter the Promised Land."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["13:1", "13:2"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["13:3", "13:4", "13:5", "13:6", "13:7", "13:8", "13:9", "13:10", "13:11", "13:12", "13:13", "13:14", "13:15", "13:16", "13:17", "13:18", "13:19", "13:20"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["13:21", "13:22", "13:23", "13:24", "13:25", "13:26", "13:27", "13:28", "13:29"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["13:30"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["13:31", "13:32", "13:33"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:1", "14:2", "14:3", "14:4"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:5"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:6", "14:7", "14:8", "14:9"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:10"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:11", "14:12"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:13", "14:14", "14:15", "14:16", "14:17", "14:18", "14:19"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["14:20", "14:21", "14:22", "14:23", "14:24", "14:25"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 12",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"introTitle": "Introduction","
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "JOS",
-			"cv":["6:1","6:27"],
-			"fieldInitialValues": {
-				"sectionTitle": "Joshua Chooses God and Defeats Jericho",
-				"themeBody": "God meets Joshua and promises to deliver the enemy into Joshua’s hands if he will lead the people in obedience to God’s ways. Joshua responds to God, and a miracle takes place.",
-				"reference": "Joshua 6",
-				"introBody": "After 40 years of wandering in the wilderness and Moses's death, God appointed Joshua to lead the Israelites into the Promised Land. They crossed the Jordan River and arrived at the fortified city of Jericho.",
-				"principle": "God rewards obedience.",
-				"principleMore": "God gave Joshua and the Israelites specific instructions to attack and defeat the evil city of Jericho. When they obeyed and put Him (and the Ark) first, the victory was won."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["6:1", "6:2", "6:3", "6:4", "6:5"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["6:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["6:7"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["6:8", "6:9"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["6:10", "6:11", "6:12", "6:13", "6:14"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["6:15", "6:16", "6:17", "6:18", "6:19"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["6:20", "6:21", "6:22", "6:23", "6:24", "6:25"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["6:26", "6:27"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 13",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "1SA",
-			"cv":["17:1","17:52"],
-			"fieldInitialValues": {
-				"sectionTitle": "Young David Defeats the Giant Goliath",
-				"themeBody": "Every day, the evil giant Goliath mocks God and His people, challenging the mightiest soldier to a duel. But the Israelites cower in fear, except for a young shepherd boy named David. David is offended that Goliath would mock the true and living God. He charges into battle with no armor and five small stones. When Goliath falls, the soldiers of Israel follow their new leader, David, and destroy the enemy.",
-				"reference": "1 Samuel 17:1-52",
-				"principle": "God is with you to bring victory over evil.",
-				"principleMore": "The Israelites were afraid of the strength of the giant Goliath and refused to fight their enemy. But David recognized that Goliath and his men were mocking the living God and decided to defeat the giant in battle. David’s obedience and faith were the ingredients that God needed, and the giant fell to his death."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["17:1", "17:2", "17:3", "17:4", "17:5", "17:6", "17:7", "17:8", "17:9", "17:10"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["17:11", "17:12", "17:13", "17:14", "17:15"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["17:16"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["17:17", "17:18", "17:19"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["17:20", "17:21", "17:22", "17:23", "17:24", "17:25"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["17:26"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["17:27"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["17:28"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["17:29", "17:30", "17:31", "17:32"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["17:33"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["17:34", "17:35", "17:36", "17:37"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["17:38", "17:39"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["17:40", "17:41", "17:42", "17:43", "17:44"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["17:45", "17:46", "17:47"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["17:48", "17:49", "17:50", "17:51"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["17:52"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 14",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "2SA",
-			"cv":["7:1","7:17"],
-			"fieldInitialValues": {
-				"sectionTitle": "The Everlasting Kingdom",
-				"themeBody": "God sees David’s obedient life and heart for God and rewards him greatly. David’s name became great, his sons inherited the kingdom, and, most of all, God told him that the great Savior, the Redeemer of the world, would come from his descendants.",
-				"reference": "2 Samuel 7:1-17",
-				"principle": "God promises a redeemer to reconcile all people back to Him.",
-				"principleMore": "The house of David honored God by building a permanent dwelling place for Him. God responded to David’s obedient and worshipful heart by rewarding the king with an eternal promise. God rewards those who are faithful to Him."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["7:1", "7:2"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["7:3"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["7:4", "7:5", "7:6", "7:7", "7:8", "7:9", "7:10", "7:11", "7:12", "7:13", "7:14", "7:15", "7:16", "7:17"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 15",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "1KI",
-			"cv":["18:1","18:46"],
-			"fieldInitialValues": {
-				"sectionTitle": "False Prophets Bow Before the Living God",
-				"themeBody": "Years later, Ahab, an evil king, led the people of Israel to worship false idols, and God’s judgment was three years with no rain. At the end of this period, God’s prophet, Elijah, was sent to a mountaintop to challenge the false priests so that all people would know of the true and living God. God opened the heavens with miraculous fire to consume the sacrifice and then sent rain to answer Elijah’s prayer.",
-				"reference": "1 Kings 18",
-				"principle": "There is one true and living God; everything else is a manmade idol.",
-				"principleMore": "Elijah challenged the people to offer sacrifices to their false idols to see if they would respond. When the idols showed they were powerless to burn the sacrifice, Elijah called on the name of the living God, and fire came from heaven. When people began to worship and honor Him, God ended the drought in their land."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["18:1"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:2", "18:3", "18:4", "18:5"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:6", "18:7"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:8"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:9", "18:10", "18:11", "18:12", "18:13", "18:14"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:15", "18:16"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:17"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:18", "18:19"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:20", "18:21"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:22", "18:23", "18:24"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:25"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:26"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:27"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:28", "18:29"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:30", "18:31", "18:32", "18:33", "18:34", "18:35"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:36", "18:37"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:38", "18:39"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:40"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:41"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:42", "18:43"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:44"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["18:45", "18:46"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 16",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "DAN",
-			"cv":["3:1","3:30"],
-			"fieldInitialValues": {
-				"sectionTitle": "The People of God Worship Him Even in Exile",
-				"themeBody": "Even though God proved His greatness and faithfulness to the Israelites, they chose to fear men over time rather than God. God sent them into exile so they would learn of His ways. However, even in exile, God rewarded His chosen people who remained faithful to Him, even when imprisoned or persecuted. God honors those who worship Him.",
-				"reference": "Daniel 3",
-				"principle": "God wants you to honor Him only.",
-				"principleMore": "When the king commanded all of his subjects to bow down to the idol, three men refused to bow down to a statue and reject the living God. As punishment, they were thrown to their death into a fiery furnace. But God intervened and dwelt with them in the furnace. The three became four because God is always with His people when they obey and honor Him."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["3:1", "3:2", "3:3"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:4", "3:5", "3:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:7"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:8", "3:9", "3:10", "3:11", "3:12"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:13", "3:14", "3:15"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:16", "3:17", "3:18"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:19", "3:20", "3:21", "3:22", "3:23"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:24"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:25"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:26"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:27"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:28", "3:29"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:30"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 17",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"introTitle": "Introduction",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "ISA",
-			"cv":["53:1","53:12"],
-			"fieldInitialValues": {
-				"sectionTitle": "The Promise of a Savior",
-				"themeBody": "From the beginning of time, God desired a relationship with the people He created. At every turn—from creation to the flood, choosing a family in Abraham, and a nation in Israel—people continually turned against the love and care of the God who made them. In a final move of love, God promised to come to earth in the form of a son to restore a relationship with Himself.",
-				"reference": "Isaiah 53",
-				"introBody": "Here is a prophecy given by Isaiah about the coming of a promised Savior, his life, and his sacrifice for our sin.",
-				"principle": "God promises a Savior to break the power of evil in our lives.",
-				"principleMore": "God responded to His faithful followers by promising to send them an eternal Savior. Prophesied hundreds of years before, the Bible records these promises as the hope for an eternal Savior that would defeat the power of evil."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["53:1", "53:2", "53:3", "53:4", "53:5", "53:6", "53:7", "53:8", "53:9", "53:10", "53:11", "53:12"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 18",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "LUK",
-			"cv":["2:1","2:20"],
-			"fieldInitialValues": {
-				"sectionTitle": "God’s Son and Savior, Jesus, is born",
-				"themeBody": "God loved the world and knew that the only way to restore a right relationship with man was to send a final and complete sacrifice for their sinful ways. God sends His eternal and only Son as the ultimate gift of love.",
-				"reference": "Luke 2:1-20",
-				"principle": "God came to earth in the form of His Son, Jesus, to show us the way back to Him.",
-				"principleMore": "God chose to rescue His people from their own sin by coming to earth in the form of a man named Jesus Christ of Nazareth. God became flesh and dwelt among men."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["2:1", "2:2", "2:3", "2:4", "2:5"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:6", "2:7"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:8", "2:9", "2:10", "2:11", "2:12", "2:13", "2:14"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:15", "2:16", "2:17", "2:18", "2:19", "2:20"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 19",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "MAT",
-			"cv":["3:1","4:11"],
-			"fieldInitialValues": {
-				"sectionTitle": "The Baptism and Temptation of Jesus",
-				"themeBody": "When Jesus began His ministry on earth, He was publicly baptized and then received the anointed blessing of the eternal heavenly Father. Immediately afterwards, Jesus was sent into the wilderness and tested by Satan to see if He would remain faithful to God.",
-				"reference": "Matthew 3:1 - 4:11",
-				"principle": "God wants you to follow Jesus and be baptized so that the “old” patterns of your life will die and your “new” creation in Christ will come alive (2 Corinthians 5:17). When you are baptized in Christ, you will be able to withstand temptation.",
-				"principleMore": "When Jesus began His public ministry and was baptized by John in the river, a voice from heaven was heard announcing that God was pleased. Jesus was then sent to the wilderness and was tested to be sure of His commitment to His eternal Father."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["3:1", "3:2", "3:3"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:4", "3:5", "3:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:7", "3:8", "3:9", "3:10"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:11", "3:12"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:13", "3:14"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:15"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:16", "3:17"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:1", "4:2", "4:3"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:4"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:5", "4:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:7"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:8", "4:9"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:10"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:11"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 20",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "LUK",
-			"cv":["5:1","5:11"],
-			"fieldInitialValues": {
-				"sectionTitle": "Jesus Calls His Disciples",
-				"themeBody": "Jesus called the people He invited to follow Him – disciples. Each disciple learned that the new priority in their lives was to follow Jesus and invite others to do the same.",
-				"reference": "Luke 5:1-11",
-				"principle": "God wants you to live for Jesus and to live like Jesus. He will use your gifts, skills, and talents for His story.",
-				"principleMore": "Jesus asked for the fisherman’s boat to show that He would use what they had for His eternal purposes. When they yielded to Him, Jesus provided a miracle catch of fish and called them to a life of discipling others."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["5:1", "5:2", "5:3"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["5:4"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["5:5", "5:6", "5:7", "5:8", "5:9", "5:10"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["5:11"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 21",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "MRK",
-			"cv":["2:1","2:12"],
-			"fieldInitialValues": {
-				"sectionTitle": "Jesus Heals the Paralytic",
-				"themeBody": "Jesus alone has the power to heal in the name of the Eternal Creator God. As He heals the paralytic, Jesus demonstrates that He also has the power to forgive sins.",
-				"reference": "Mark 2:1-12",
-				"principle": "Jesus is a Healer and has given you authority to heal in His name. (Matthew 10:1-2)",
-				"principleMore": "While Jesus was teaching a large crowd, some friends of a paralytic brought the sick man to Jesus. Recognizing the faith of these friends, Jesus announced that the man was healed and then forgiven. Jesus alone has the power to heal and to forgive."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["2:1", "2:2", "2:3", "2:4", "2:5"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:6", "2:7"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:8", "2:9", "2:10", "2:11"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:12"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 22",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "JHN",
-			"cv":["4:1","4:42"],
-			"fieldInitialValues": {
-				"sectionTitle": "The Woman at the Well",
-				"themeBody": "Jesus provides living water for all those who are spiritually thirsty.",
-				"reference": "John 4:1-42",
-				"principle": "God wants you to offer others the living hope of His salvation.",
-				"principleMore": "Jesus knows the troubles of the Samaritan woman and desires to heal her broken heart and restore her. He offers living water to quench her thirst and then shares His salvation with her entire village."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["4:1", "4:2", "4:3", "4:4", "4:5", "4:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:7", "4:8"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:9"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:10"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:11", "4:12"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:13", "4:14"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:15"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:16"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:17", "4:18"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:19", "4:20"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:21", "4:22", "4:23", "4:24"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:25"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:26"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:27", "4:28", "4:29", "4:30"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:31"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:32"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:33"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:34", "4:35", "4:36", "4:37", "4:38"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["4:39", "4:40", "4:41", "4:42"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 23",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "LUK",
-			"cv":["15:11","15:32"],
-			"fieldInitialValues": {
-				"sectionTitle": "The Prodigal Son",
-				"themeBody": "The Heavenly Father loves His children even when they disobey. However, He will also use the consequences of their sin to turn their hearts toward Him.",
-				"reference": "Luke 15:11-32",
-				"principle": "God has a righteous heart of a father and loves all of His children. When you turn back to God, He will always receive you.",
-				"principleMore": "God used the son’s selfishness to help him understand his need for his father. In the same way, the Heavenly Father uses our own evil actions to help us see our need for Him."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["15:11", "15:12", "15:13", "15:14", "15:15", "15:16", "15:17", "15:18", "15:19"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["15:20", "15:21"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["15:22", "15:23", "15:24"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["15:25", "15:26", "15:27", "15:28", "15:29", "15:30"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["15:31", "15:32"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 24",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "MAT",
-			"cv":["16:13","16:28"],
-			"fieldInitialValues": {
-				"sectionTitle": "Peter Confesses Jesus as the Savior",
-				"themeBody": "Who is Jesus? More than a good man, a teacher, or a healer, Jesus is the Savior, the only one who forgives sin and restores our relationship with the Eternal Father.",
-				"reference": "Matthew 16:13-28",
-				"principle": "Jesus will save you from your sin.",
-				"principleMore": "When Peter declares that Jesus is the Eternal Savior, Jesus responds by affirming this revelation and offering a path for salvation to each of His followers."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["16:13"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["16:14"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["16:15"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["16:16"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["16:17", "16:18", "16:19", "16:20"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["16:21"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["16:22"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["16:23"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["16:24", "16:25", "16:26", "16:27", "16:28"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 25",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "LUK",
-			"cv":["19:1","19:10"],
-			"fieldInitialValues": {
-				"sectionTitle": "Zacchaeus Finds the Savior",
-				"themeBody": "Jesus chooses to be with, to love, and to forgive every person who repents and receives His love.",
-				"reference": "Luke 19:1-10",
-				"principle": "Jesus loves everyone and always chooses to reveal Himself to those who will receive His love.",
-				"principleMore": "Jesus chose to eat dinner with Zacchaeus, the tax collector, because He loves people in need. When Zacchaeus recognized his own shortcomings and promised to pay back everyone he had cheated, Jesus announced that salvation had come to his house."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["19:1", "19:2", "19:3", "19:4", "19:5", "19:6", "19:7"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["19:8"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["19:9", "19:10"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 26",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "LUK",
-			"cv":["22:1","22:22"],
-			"fieldInitialValues": {
-				"sectionTitle": "The Last Passover",
-				"themeBody": "At the end of his life, Jesus called His disciples together to celebrate Passover with Him. At this meal, He explained His role as the ultimate sacrifice for sin, His love for every person, and His redeeming power.",
-				"reference": "Luke 22:1-22",
-				"principle": "Jesus is the perfect sacrifice. He died on the cross to pay the penalty for our sins. We practice communion to remember what Jesus has done.",
-				"principleMore": "Jesus celebrated His last Passover meal with the disciples to show His love and commitment to them. The bread He broke and shared represented His body. Broken for us. The cup represented a new and final covenant of forgiveness through Christ’s suffering on the cross."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["22:1", "22:2"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["22:3", "22:4", "22:5", "22:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["22:7", "22:8"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["22:9"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["22:10", "22:11", "22:12"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["22:13"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["22:14", "22:15", "22:16", "22:17", "22:18"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["22:19", "22:20", "22:21", "22:22"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 27",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "MAT",
-			"cv":["26:36","26:56"],
-			"fieldInitialValues": {
-				"sectionTitle": "The Betrayal at the Garden",
-				"themeBody": "On the last night of Jesus’ life before His suffering, He asked His disciples to join with Him in prayer. As He agonized in prayer about the events soon to come, His disciples slept, and then Judas betrayed Him.",
-				"reference": "Matthew 26:36-56",
-				"principle": "Jesus chose to die for your sins.",
-				"principleMore": "Jesus prayed in the Garden, asking the Heavenly Father if it was possible for there to be any other way that He could provide salvation for the world. He then willingly decided to suffer and die for our sins. Then Judas betrayed him."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["26:36", "26:37", "26:38"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["26:39"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["26:40", "26:41"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["26:42"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["26:43", "26:44", "26:45", "26:46"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["26:47", "26:48", "26:49"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["26:50"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["26:51"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["26:52", "26:53", "26:54"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["26:55", "26:56"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 28",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "MAT",
-			"cv":["27:11","27:56"],
-			"fieldInitialValues": {
-				"sectionTitle": "The Trial and Crucifixion of Jesus",
-				"themeBody": "Jesus was turned over to the authorities to be tried, to suffer, and to die for our sins.",
-				"reference": "Matthew 27:11-56",
-				"principle": "Jesus is the perfect sacrifice.",
-				"principleMore": "Jesus willingly chose to suffer and die an excruciating death on the cross. This was the price that needed to be paid for our sins."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["27:11"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:12", "27:13"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:14"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:15", "27:16", "27:17", "27:18"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:19"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:20", "27:21"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:22"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:23"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:24"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:25"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:26"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:27", "27:28", "27:29", "27:30", "27:31"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:32", "27:33", "27:34", "27:35", "27:36", "27:37"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:38"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:39", "27:40"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:41", "27:42", "27:43", "27:44"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:45", "27:46"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:47"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:48", "27:49"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:50"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:51", "27:52", "27:53"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:54"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["27:55", "27:56"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 29",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "LUK",
-			"cv":["24:1","24:53"],
-			"fieldInitialValues": {
-				"sectionTitle": "The Resurrection",
-				"themeBody": "After three days in the tomb, Jesus destroyed the power of evil, was reunited with the heavenly Father, and reappeared to those who believed.",
-				"reference": "Luke 24",
-				"principle": "Jesus is alive!",
-				"principleMore": "After Jesus died on the cross for our sins, He was buried. Three days later, He arose from the dead, conquered sin and death, and returned to Jerusalem to give the final instructions to His followers."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["24:1", "24:2", "24:3", "24:4"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["24:5", "24:6", "24:7"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["24:8", "24:9", "24:10", "24:11", "24:12"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["24:13", "24:14", "24:15", "24:16", "24:17"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["24:18"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["24:19", "24:20", "24:21", "24:22", "24:23", "24:24"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["24:25", "24:26", "24:27"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["24:28"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["24:29"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["24:30", "24:31", "24:32", "24:33", "24:34", "24:35"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["24:36"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["24:37"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["24:38", "24:39", "24:40", "24:41"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["24:42", "24:43", "24:44"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["24:45", "24:46", "24:47", "24:48", "24:49"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["24:50", "24:51", "24:52", "24:53"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 30",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "ACT",
-			"cv":["1:1","1:14"],
-			"fieldInitialValues": {
-				"sectionTitle": "Ascension/Great Commission",
-				"themeBody": "Before Jesus returned to Heaven, He charged His disciples to be filled with the power of the Holy Spirit and to declare His message to everyone on earth.",
-				"reference": "Acts 1:1-14",
-				"principle": "Jesus appeared to His disciples and instructed them to continue His mission to make disciples among every ethnic group in the world.",
-				"principleMore": "Jesus appeared to His disciples many times after His resurrection to prove to them that He was, in fact, the Savior of the world. He instructed them to go into all the earth and do what He had been doing—making disciples by teaching people to obey and baptizing people in the name of the Father, Son, and Holy Spirit."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["1:1", "1:2", "1:3", "1:4", "1:5"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["1:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["1:7", "1:8"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["1:9", "1:10", "1:11"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["1:12", "1:13", "1:14"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 31",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "ACT",
-			"cv":["2:1","2:47"],
-			"fieldInitialValues": {
-				"sectionTitle": "The Outpouring",
-				"themeBody": "As Jesus had promised, the power of the Holy Spirit descended on His followers so that they could declare His saving power to the whole earth.",
-				"reference": "Acts 2",
-				"principle": "God gives us His supernatural spiritual power to carry out His great commission.",
-				"principleMore": "On the day of Pentecost, the Holy Spirit came on the disciples and filled them with supernatural power to be a witness of Christ to the world. They spoke in the tongues of those around them and prophesied the works of God to all who could hear."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["2:1", "2:2", "2:3", "2:4"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:5", "2:6", "2:7", "2:8", "2:9", "2:10", "2:11", "2:12", "2:13"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:14", "2:15", "2:16", "2:17", "2:18", "2:19", "2:20", "2:21"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:22", "2:23", "2:24", "2:25", "2:26", "2:27", "2:28"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:29", "2:30", "2:31", "2:32", "2:33", "2:34", "2:35"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:36"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:37"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:38", "2:39", "2:40"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["2:41", "2:42", "2:43", "2:44", "2:45", "2:46", "2:47"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 32",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "ACT",
-			"cv":["3:1","3:20"],
-			"fieldInitialValues": {
-				"sectionTitle": "Jesus’ Followers are Persecuted",
-				"themeBody": "The disciples immediately began to share the things they had seen and heard about Jesus, even when the result brought difficulty and persecution.",
-				"reference": "Acts 3:1-20",
-				"principle": "God is with us when we suffer for Him.",
-				"principleMore": "Those who follow Jesus today can expect to live a life similar to Peter and John. The same miraculous power of God is available to them. At the same time, they should expect others to treat them the same – some received the Good News and others persecuted the believers."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["3:1", "3:2", "3:3", "3:4", "3:5", "3:6", "3:7", "3:8", "3:9", "3:10", "3:11"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:12", "3:13", "3:14", "3:15", "3:16"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:17", "3:18"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["3:19", "3:20", "3:21"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 33",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "ACT",
-			"cv":["9:1","9:31"],
-			"fieldInitialValues": {
-				"sectionTitle": "Paul’s Call to be on Mission With God",
-				"themeBody": "Saul (soon to be called Paul) was fierce in his persecution of Christians until Jesus appeared to him and called him to be a messenger of the Good News to all people.",
-				"reference": "Acts 9:1-31",
-				"principle": "God invites you to join His mission of bringing salvation to all people.",
-				"principleMore": "Jesus invited Saul to join Him on a mission to declare His goodness and salvation to all people. Blinded on the road, but rescued by a fellow believer, Saul’s life was marked by God’s love and given purpose through obedience."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["9:1", "9:2", "9:3", "9:4"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["9:5", "9:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["9:7", "9:8", "9:9"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["9:10"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["9:11", "9:12"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["9:13", "9:14"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["9:15", "9:16"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["9:17", "9:18", "9:19", "9:20", "9:21"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["9:22", "9:23", "9:24", "9:25"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["9:26", "9:27", "9:28", "9:29", "9:30"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["9:31"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 34",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "ACT",
-			"cv":["10:1","10:48"],
-			"fieldInitialValues": {
-				"sectionTitle": "Cornelius",
-				"themeBody": "God desires that no one perish without the opportunity to be saved through faith in His Son, Jesus. Cornelius received a vision from God and the help of Peter so that he, too, could be saved.",
-				"reference": "Acts 10",
-				"principle": "God reveals Himself to those who seek Him. When we listen to His voice, God will direct our steps to be a part of His miracles.",
-				"principleMore": "God revealed Himself to Cornelius because Cornelius pursued Him. Just as God orchestrated Peter’s steps to go and minister to Cornelius so will God send us to minister His love and grace to others."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["10:1", "10:2", "10:3"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["10:4", "10:5", "10:6"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["10:7", "10:8"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["10:9", "10:10", "10:11", "10:12", "10:13"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["10:14"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["10:15", "10:16"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["10:17", "10:18", "10:19", "10:20"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["10:21"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["10:22", "10:23", "10:24", "10:25", "10:26", "10:27", "10:28", "10:29"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["10:30", "10:31", "10:32", "10:33"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["10:34", "10:35", "10:36", "10:37", "10:38", "10:39", "10:40", "10:41", "10:42", "10:43"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["10:44", "10:45", "10:46", "10:47", "10:48"]
-				}
-			]
-		}
-	],
-	"fieldInitialValues": {
-		"sectionNumber": "Story 35",
-		"themeTitle": "Theme",
-		"referenceTitle": "Scripture Text",
-		"scriptureTitle": "The Story",
-		"principleTitle": "Key Principle"
-		},
-	"sections": [
-		{
-			"bookCode": "REV",
-			"cv":["20:11","22:7"],
-			"fieldInitialValues": {
-				"sectionTitle": "Judgment and Heaven",
-				"themeBody": "When we die, every person will stand before God to be judged for how they lived their lives here on earth. He will judge the living and the dead, and those who have not received life in Christ will spend eternity in hell.",
-				"reference": "Revelation 20:11-22:7",
-				"principle": "God is granting each of us an amazing, eternal opportunity to be reconciled to Him.",
-				"principleMore": "Even though we deserve a negative judgment based on our everyday actions, when we receive Jesus into our hearts and become a part of His family, He makes us brand new. At the final judgment, Jesus will stand and take our place. The result will be an invitation to dwell with God for eternity in heaven."
-			},
-			"paragraphs": [
-				{
-					"paraTag": "p",
-					"units": ["20:11", "20:12", "20:13", "20:14", "20:15"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["21:1", "21:2", "21:3", "21:4"]
-				},
-				{
-					"paraTag": "p",
-					"units": ["21:5", "21:6", "21:7"]
-				}
-			]
-		}
-	]
+  "stories": [
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 1",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "GEN",
+          "cv":["1:1","2:3"],
+          "fieldInitialValues": {
+            "sectionTitle": "How it All Began",
+            "themeBody": "In the beginning, before there was anything, there was God. He is love and desired nothing more than to reveal His love to every person. He took something formless and dark and created beauty. He called it the heavens and the earth and then placed man and woman in the midst of this garden to enjoy Him and His creation.",
+            "reference": "Genesis 1:1 - 2:3",
+            "principle": "God is the Creator of everything.",
+            "principleMore": "God created the heavens and the earth and everything in it. He made man and woman in His own image and placed them in the midst of His creation to enjoy Him and His creation. He gave humankind the responsibility to care for His creation."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["1:1", "1:2"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["1:3", "1:4", "1:5"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["1:6", "1:7", "1:8"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["1:9", "1:10", "1:11", "1:12", "1:13"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["1:14", "1:15", "1:16", "1:17", "1:18", "1:19"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["1:20", "1:21", "1:22", "1:23"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["1:24", "1:25"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["1:26", "1:27", "1:28", "1:29", "1:30"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["1:31"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:1", "2:2", "2:3"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 2",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "GEN",
+          "cv":["2:4","2:25"],
+          "fieldInitialValues": {
+            "sectionTitle": "God made Man, Woman, and the Garden",
+            "themeBody": "God created man and woman in His image and for His purpose. He placed them in a perfect place, the Garden of Eden, to enjoy fellowship with God and with one another. Their purpose was to grow His garden and expand across the whole earth.",
+            "reference": "Genesis 2:4-25",
+            "principle": "God desires fellowship with humankind.",
+            "principleMore": "God placed man and woman in a beautiful garden for their enjoyment, but warned them not to eat from the tree of the knowledge of good and evil. God desired to fellowship with them, to enjoy the garden together, and to grow it throughout the whole earth."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["2:4", "2:5", "2:6", "2:7", "2:8", "2:9", "2:10", "2:11", "2:12", "2:13", "2:14", "2:15", "2:16", "2:17"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:18", "2:19", "2:20", "2:21", "2:22", "2:23", "2:24", "2:25"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 3",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "introTitle": "Introduction",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "GEN",
+          "cv":["3:1","3:24"],
+          "fieldInitialValues": {
+            "sectionTitle": "How Evil Destroyed Man, Woman, and the Earth",
+            "themeBody": "God placed Adam and Eve in His garden so that they could enjoy perfect fellowship with Him. But Adam and Eve rebelled against God’s best and allowed evil to forever change their relationship with God and with one another.",
+            "reference": "Genesis 3",
+            "introBody": "The LORD God took the man, and put him into the garden of Eden to cultivate and keep it. The LORD God commanded the man, saying, “You may freely eat of every tree of the garden; but you shall not eat of the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”",
+            "principle": "God is good, but evil destroys. Everyone is responsible for their choices: good or evil.",
+            "principleMore": "Adam and Eve chose to disobey God and ate of the forbidden fruit. Recognizing their own sin, they hid from God’s presence. God gave them clothes and cared for them, but the consequences of their own actions forced them to leave the perfect peace of the Garden."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["3:1"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:2", "3:3"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:4", "3:5"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:6", "3:7", "3:8"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:9"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:10"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:11"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:12"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:13"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:14", "3:15"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:16"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:17", "3:18", "3:19"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:20", "3:21"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:22", "3:23", "3:24"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 4",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "GEN",
+          "cv":["6:11","9:7"],
+          "fieldInitialValues": {
+            "sectionTitle": "Noah and the Great Flood",
+            "themeBody": "The earth became corrupt because of humanity's evil behavior and violence. Out of His own mercy, God sent a flood to cover the earth to destroy evil, but first instructed a righteous man, Noah, to build a boat to rescue his family and all the animals of the earth.",
+            "reference": "Genesis 6:11 - 9:7",
+            "principle": "God cannot co-exist with evil, and His judgment brings mercy to the righteous and destruction to the evil.",
+            "principleMore": "Humanity continued to rebel against God’s best ways, and evil increased on the earth. God decided to destroy the earth and re-create it with His beauty. He instructed Noah to build a boat for his family’s safety, then flooded the earth with water. After one year, the floods came down, and God sent a rainbow to remind people that He would never again destroy the earth."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["6:11", "6:12"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["6:13", "6:14", "6:15", "6:16", "6:17", "6:18", "6:19", "6:20", "6:21", "6:22"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["7:1", "7:2", "7:3", "7:4"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["7:5"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["7:6", "7:7", "7:8", "7:9", "7:10", "7:11", "7:12"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["7:13", "7:14", "7:15", "7:16", "7:17", "7:18", "7:19", "7:20", "7:21", "7:22", "7:23", "7:24"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["8:1", "8:2", "8:3", "8:4", "8:5"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["8:6", "8:7", "8:8", "8:9", "8:10", "8:11", "8:12"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["8:13", "8:14"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["8:15", "8:16", "8:17"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["8:18", "8:19"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["8:20", "8:21", "8:22"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["9:1", "9:2", "9:3", "9:4", "9:5", "9:6", "9:7"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 5",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "GEN",
+          "cv":["11:1","12:7"],
+          "fieldInitialValues": {
+            "sectionTitle": "The Tower of Babel and the Call of Abraham",
+            "themeBody": "Men gathered together to build the Tower of Babel and show that they could reach heaven with their own achievements. They chose to exalt themselves with pride and self-worship, so God gave them multiple languages and scattered them throughout the earth. However, God found a man named Abraham who was willing to leave what he was building and follow Him. When Abraham chose God and not his own way, God blessed him and his descendants forever.",
+            "reference": "Genesis 11:1 - 12:7",
+            "principle": "God blesses people who respond to His love, but scatters those who choose their own way.",
+            "principleMore": "Men gathered together to build the Tower of Babel as a monument to their own kingdom, power, and ability. God confused them by giving each one a different language and scattering them throughout the earth. But Abraham chose to follow God and build His Kingdom, so God blessed and prospered him."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["11:1", "11:2", "11:3", "11:4"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["11:5", "11:6", "11:7", "11:8", "11:9"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["11:10", "11:11"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["11:12", "11:13"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["11:14", "11:15"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["11:16", "11:17"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["11:18", "11:19"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["11:20", "11:21"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["11:22", "11:23"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["11:24", "11:25"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["11:26"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["11:27", "11:28", "11:29", "11:30", "11:31", "11:32"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["12:1", "12:2", "12:3"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["12:4", "12:5", "12:6"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["12:7"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 6",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "GEN",
+          "cv":["22:1","22:19"],
+          "fieldInitialValues": {
+            "sectionTitle": "Abraham and Isaac",
+            "themeBody": "God tested Abraham’s faith to see if he loved the promise and the reward more than his relationship with God. Abraham chose God, and God provided a sacrifice of worship to deepen their relationship together.",
+            "reference": "Genesis 22:1-19",
+            "principle": "God desires a relationship with you based on love, not a system of rewards, promises, or performance.",
+            "principleMore": "God tested Abraham to see if he desired the promise more than a relationship with the Giver of the promise. When Abraham obeyed and was willing to sacrifice even his own promised son, God rescued Isaac and rewarded Abraham and his descendants forever."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["22:1"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["22:2"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["22:3", "22:4", "22:5", "22:6", "22:7"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["22:8", "22:9", "22:10"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["22:11"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["22:12"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["22:13", "22:14"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["22:15", "22:16", "22:17", "22:18"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["22:19"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 7",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "GEN",
+          "cv":["37:1","45:28"],
+          "fieldInitialValues": {
+            "sectionTitle": "Joseph Honored God in Every Circumstance",
+            "themeBody": "Joseph was the favorite son of Jacob and the chosen son of Isaac. His brothers, filled with envy, sold him into slavery. But Joseph was faithful to God and honored Him in every circumstance. Through many trials and tests, God eventually exalted him as Prime Minister of Egypt, delivering God’s chosen people in times of great famine and difficulty.",
+            "reference": "Genesis 37; 39:22 - 40:4; 45:1-11, 25-28",
+            "principle": "God honors those who follow Him and turns every evil intent to a good outcome.",
+            "principleMore": "God chose Joseph from among his brothers to rule over them and to provide for his father’s house during a time of famine. When his brothers’ evil actions caused a series of hardships, Joseph responded to each one by honoring God and living a life of righteousness and integrity. God used the evil intent of others and turned it for the good of His servant Joseph."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["37:1", "37:2", "37:3"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["37:4", "37:5", "37:6", "37:7"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["37:8", "37:9", "37:10", "37:11"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["37:12", "37:13"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["37:14", "37:15"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["37:15"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["37:16", "37:17"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["37:19", "37:19", "37:20"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["37:21", "37:22", "37:23", "37:24"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["37:25", "37:26", "37:27", "37:28"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["37:29", "37:30", "37:31", "37:32"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["37:33", "37:34", "37:35", "37:36"]
+            },
+            {
+              "abridgement": "Joseph served faithfully in Potiphar's house but was betrayed by Potiphar's wife and sent to jail."
+            },
+            {
+              "paraTag": "p",
+              "units": ["39:20", "39:21", "39:22", "39:23"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["40:1", "40:2", "40:3", "40:4"]
+            },
+            {
+              "abridgement": "Both of these prisoners came to know that Joseph was able to interpret dreams. After they had been in custody for some time, one was killed and the other, a cup-bearer, was promoted to Pharaoh’s court. Two years later, the cup-bearer remembered Joseph and told Pharaoh that Joseph would be able to interpret his troubling dream. God gave Joseph the ability to interpret Pharaoh’s dream warning of seven years of famine. Pharaoh rewarded Joseph for interpreting the dream by making him second in command over all the land."
+            },
+            {
+              "abridgement": "When famine came, just as the dream foretold, the brothers of Joseph came to Egypt looking for food. Joseph provided them food, sent them back to their father, but kept one brother in Egypt to ensure their return."
+            },
+            {
+              "paraTag": "p",
+              "units": ["45:1", "44:2", "44:3"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["45:4", "45:5", "45:6", "45:7", "45:8", "45:9", "45:10", "45:11", "45:12", "45:13", "45:14", "45:15"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["45:16", "45:17", "45:18", "45:19", "45:20"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["45:21", "45:22", "45:23", "45:24"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["45:25", "45:26", "45:27", "45:28"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 8",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "introTitle": "Introduction",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "EXO",
+          "cv":["3:1","3:22"],
+          "fieldInitialValues": {
+            "sectionTitle": "God Speaks to Moses Through a Burning Bush",
+            "themeBody": "God hears the cries of His people suffering under slavery in Egypt and calls Moses to be His spokesman and deliver them from evil.",
+            "reference": "Exodus 3",
+            "introBody": "Hundreds of years later, still in Egypt, a baby named Moses was born to a descendant of Abraham, Isaac, and Jacob. At this time, the Egyptian government leaders treated the Israelites harshly and intended to harm them. Raised in Pharaoh’s court, Moses’ anger toward the Egyptians drove him to kill an Egyptian man. He fled for his life from Egypt at the age of 40 and lived in the wilderness for another 40 years.",
+            "principle": "God hears every prayer and sends people to share His love.",
+            "principleMore": "God hears the cries of His people in Egypt and chooses Moses to be His spokesman and to deliver His people from the hands of an evil Egypt. When Moses asks, ‘Who shall I say has sent me?’ God replies, 'Tell them that the I AM has sent you—the One who was, who is, and who shall be.'"
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["3:1", "3:2", "3:3"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:4"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:5", "3:6"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:7", "3:8", "3:9", "3:10"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:11"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:12"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:13"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:14", "3:15", "3:16", "3:17", "3:18", "3:19", "3:20", "3:21", "3:22"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 9",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "introTitle": "Introduction",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "EXO",
+          "cv":["11:4","14:31"],
+          "fieldInitialValues": {
+            "sectionTitle": "God Rescues His People from Egypt",
+            "themeBody": "God redeems His people from the evil leader of Egypt. An angel of death passes through the nation, passing over each family that has sacrificed an unblemished lamb, but killing the firstborn of every other family. God then leads His people on a journey out of Egypt and toward the Promised Land.",
+            "reference": "Exodus 11:4 - 12:36; 14",
+            "introBody": "God sent nine plagues to Pharaoh and the Egyptian people in hopes that they would repent and allow the children of Israel to return to the Promised Land. But Pharaoh’s heart was stubborn, and he refused to release Moses and his people.",
+            "principle": "God rescues His people from evil.",
+            "principleMore": "When Pharaoh, the evil leader of Egypt, refused to let the Israelites return to their Promised Land, God sent plagues, hardship, and disaster on their land. Eventually, the Israelites were delivered by God out of the hands of Egypt by crossing the Red Sea on dry land."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["11:1", "11:2", "11:3", "11:4", "11:5", "11:6", "11:7", "11:8"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["11:9", "11:10"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["12:1", "12:2", "12:3", "12:4", "12:5", "12:6", "12:7", "12:8", "12:9", "12:10"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["12:11", "12:12", "12:13", "12:14"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["12:15", "12:16", "12:17", "12:18", "12:19", "12:20", "12:21"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["12:22", "12:23", "12:24", "12:25", "12:26", "12:27"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["12:28"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["12:29", "12:30", "12:31", "12:32"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["12:33", "12:34", "12:35", "12:36"]
+            },
+            {
+              "abridgement": "That night, 600,000 men, plus all the women and children, left on foot. God led them along a route through the wilderness toward the Red Sea, and the Israelites left Egypt like a marching army. The LORD guided them by a pillar of cloud during the day and a pillar of fire at night. That way, they could travel whether it was day or night. And the LORD did not remove the pillar of cloud or fire from their sight."
+            },
+            {
+              "paraTag": "p",
+              "units": ["14:1", "14:2", "14:3", "14:4"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["14:5", "14:6", "14:7", "14:8", "14:9"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["14:10", "14:11", "14:12"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["14:13", "14:14"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["14:15", "14:16", "14:17", "14:18", "14:19", "14:20"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["14:21", "14:22", "14:23", "14:24", "14:25"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["14:26", "14:27", "14:28", "14:29", "14:30", "14:31"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 10",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "EXO",
+          "cv":["19:1","20:21"],
+          "fieldInitialValues": {
+            "sectionTitle": "God Gives His People A Standard By Which to Live",
+            "themeBody": "God invites Moses to His mountain and writes on tablets of stone the Ten Commandments that are to be the foundation of humankind’s relationship with God.",
+            "reference": "Exodus 19:1 - 20:21",
+            "principle": "God has given us a standard by which to live.",
+            "principleMore": "God desired a relationship with the Israelites and invited them to be near Him, but the people were afraid. God provided the 10 Commandments as eternal guidelines to help people live right and recognize their need for God."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["19:1", "19:2", "19:3", "19:4", "19:5", "19:6"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["19:7", "19:8"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["19:9", "19:10", "19:11", "19:12", "19:13"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["19:14", "19:15"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["19:16", "19:17", "19:18", "19:19", "19:20"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["19:21", "19:22"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["19:23"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["19:24"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["19:25"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["20:1", "20:2"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["20:3"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["20:4", "20:5", "20:6"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["20:7"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["20:8", "20:9", "20:10", "20:11"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["20:12"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["20:13"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["20:14"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["20:15"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["20:16"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["20:17"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["20:18", "20:19"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["20:20", "20:21"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 11",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "NUM",
+          "cv":["13:1","14:25"],
+          "fieldInitialValues": {
+            "sectionTitle": "Moses Sends Spies into the Promised Land",
+            "themeBody": "God assures Moses and His chosen people that He has provided a land filled with His abundance. Spies are sent out to confirm God’s truth, but the people choose to live in fear of their enemies rather than faith in God’s word.",
+            "reference": "Numbers 13:1 - 14:25",
+            "principle": "God promises abundance to those who walk by faith and believe in His promises.",
+            "principleMore": "God promised a beautiful land and an abundant life to all those who would fear and obey Him. When the spies were sent out to confirm God’s plan, they returned with a different story and became afraid of their circumstances instead. God chose to bless Joshua and Caleb because they trusted in Him, but did not allow the others to enter the Promised Land."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["13:1", "13:2"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["13:3", "13:4", "13:5", "13:6", "13:7", "13:8", "13:9", "13:10", "13:11", "13:12", "13:13", "13:14", "13:15", "13:16", "13:17", "13:18", "13:19", "13:20"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["13:21", "13:22", "13:23", "13:24", "13:25", "13:26", "13:27", "13:28", "13:29"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["13:30"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["13:31", "13:32", "13:33"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["14:1", "14:2", "14:3", "14:4"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["14:5"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["14:6", "14:7", "14:8", "14:9"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["14:10"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["14:11", "14:12"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["14:13", "14:14", "14:15", "14:16", "14:17", "14:18", "14:19"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["14:20", "14:21", "14:22", "14:23", "14:24", "14:25"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 12",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "introTitle": "Introduction",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "JOS",
+          "cv":["6:1","6:27"],
+          "fieldInitialValues": {
+            "sectionTitle": "Joshua Chooses God and Defeats Jericho",
+            "themeBody": "God meets Joshua and promises to deliver the enemy into Joshua’s hands if he will lead the people in obedience to God’s ways. Joshua responds to God, and a miracle takes place.",
+            "reference": "Joshua 6",
+            "introBody": "After 40 years of wandering in the wilderness and Moses's death, God appointed Joshua to lead the Israelites into the Promised Land. They crossed the Jordan River and arrived at the fortified city of Jericho.",
+            "principle": "God rewards obedience.",
+            "principleMore": "God gave Joshua and the Israelites specific instructions to attack and defeat the evil city of Jericho. When they obeyed and put Him (and the Ark) first, the victory was won."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["6:1", "6:2", "6:3", "6:4", "6:5"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["6:6"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["6:7"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["6:8", "6:9"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["6:10", "6:11", "6:12", "6:13", "6:14"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["6:15", "6:16", "6:17", "6:18", "6:19"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["6:20", "6:21", "6:22", "6:23", "6:24", "6:25"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["6:26", "6:27"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 13",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "1SA",
+          "cv":["17:1","17:52"],
+          "fieldInitialValues": {
+            "sectionTitle": "Young David Defeats the Giant Goliath",
+            "themeBody": "Every day, the evil giant Goliath mocks God and His people, challenging the mightiest soldier to a duel. But the Israelites cower in fear, except for a young shepherd boy named David. David is offended that Goliath would mock the true and living God. He charges into battle with no armor and five small stones. When Goliath falls, the soldiers of Israel follow their new leader, David, and destroy the enemy.",
+            "reference": "1 Samuel 17:1-52",
+            "principle": "God is with you to bring victory over evil.",
+            "principleMore": "The Israelites were afraid of the strength of the giant Goliath and refused to fight their enemy. But David recognized that Goliath and his men were mocking the living God and decided to defeat the giant in battle. David’s obedience and faith were the ingredients that God needed, and the giant fell to his death."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["17:1", "17:2", "17:3", "17:4", "17:5", "17:6", "17:7", "17:8", "17:9", "17:10"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["17:11", "17:12", "17:13", "17:14", "17:15"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["17:16"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["17:17", "17:18", "17:19"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["17:20", "17:21", "17:22", "17:23", "17:24", "17:25"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["17:26"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["17:27"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["17:28"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["17:29", "17:30", "17:31", "17:32"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["17:33"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["17:34", "17:35", "17:36", "17:37"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["17:38", "17:39"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["17:40", "17:41", "17:42", "17:43", "17:44"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["17:45", "17:46", "17:47"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["17:48", "17:49", "17:50", "17:51"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["17:52"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 14",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "2SA",
+          "cv":["7:1","7:17"],
+          "fieldInitialValues": {
+            "sectionTitle": "The Everlasting Kingdom",
+            "themeBody": "God sees David’s obedient life and heart for God and rewards him greatly. David’s name became great, his sons inherited the kingdom, and, most of all, God told him that the great Savior, the Redeemer of the world, would come from his descendants.",
+            "reference": "2 Samuel 7:1-17",
+            "principle": "God promises a redeemer to reconcile all people back to Him.",
+            "principleMore": "The house of David honored God by building a permanent dwelling place for Him. God responded to David’s obedient and worshipful heart by rewarding the king with an eternal promise. God rewards those who are faithful to Him."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["7:1", "7:2"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["7:3"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["7:4", "7:5", "7:6", "7:7", "7:8", "7:9", "7:10", "7:11", "7:12", "7:13", "7:14", "7:15", "7:16", "7:17"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 15",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "1KI",
+          "cv":["18:1","18:46"],
+          "fieldInitialValues": {
+            "sectionTitle": "False Prophets Bow Before the Living God",
+            "themeBody": "Years later, Ahab, an evil king, led the people of Israel to worship false idols, and God’s judgment was three years with no rain. At the end of this period, God’s prophet, Elijah, was sent to a mountaintop to challenge the false priests so that all people would know of the true and living God. God opened the heavens with miraculous fire to consume the sacrifice and then sent rain to answer Elijah’s prayer.",
+            "reference": "1 Kings 18",
+            "principle": "There is one true and living God; everything else is a manmade idol.",
+            "principleMore": "Elijah challenged the people to offer sacrifices to their false idols to see if they would respond. When the idols showed they were powerless to burn the sacrifice, Elijah called on the name of the living God, and fire came from heaven. When people began to worship and honor Him, God ended the drought in their land."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["18:1"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:2", "18:3", "18:4", "18:5"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:6", "18:7"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:8"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:9", "18:10", "18:11", "18:12", "18:13", "18:14"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:15", "18:16"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:17"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:18", "18:19"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:20", "18:21"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:22", "18:23", "18:24"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:25"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:26"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:27"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:28", "18:29"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:30", "18:31", "18:32", "18:33", "18:34", "18:35"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:36", "18:37"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:38", "18:39"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:40"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:41"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:42", "18:43"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:44"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["18:45", "18:46"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 16",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "DAN",
+          "cv":["3:1","3:30"],
+          "fieldInitialValues": {
+            "sectionTitle": "The People of God Worship Him Even in Exile",
+            "themeBody": "Even though God proved His greatness and faithfulness to the Israelites, they chose to fear men over time rather than God. God sent them into exile so they would learn of His ways. However, even in exile, God rewarded His chosen people who remained faithful to Him, even when imprisoned or persecuted. God honors those who worship Him.",
+            "reference": "Daniel 3",
+            "principle": "God wants you to honor Him only.",
+            "principleMore": "When the king commanded all of his subjects to bow down to the idol, three men refused to bow down to a statue and reject the living God. As punishment, they were thrown to their death into a fiery furnace. But God intervened and dwelt with them in the furnace. The three became four because God is always with His people when they obey and honor Him."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["3:1", "3:2", "3:3"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:4", "3:5", "3:6"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:7"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:8", "3:9", "3:10", "3:11", "3:12"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:13", "3:14", "3:15"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:16", "3:17", "3:18"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:19", "3:20", "3:21", "3:22", "3:23"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:24"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:25"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:26"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:27"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:28", "3:29"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:30"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 17",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "introTitle": "Introduction",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "ISA",
+          "cv":["53:1","53:12"],
+          "fieldInitialValues": {
+            "sectionTitle": "The Promise of a Savior",
+            "themeBody": "From the beginning of time, God desired a relationship with the people He created. At every turn—from creation to the flood, choosing a family in Abraham, and a nation in Israel—people continually turned against the love and care of the God who made them. In a final move of love, God promised to come to earth in the form of a son to restore a relationship with Himself.",
+            "reference": "Isaiah 53",
+            "introBody": "Here is a prophecy given by Isaiah about the coming of a promised Savior, his life, and his sacrifice for our sin.",
+            "principle": "God promises a Savior to break the power of evil in our lives.",
+            "principleMore": "God responded to His faithful followers by promising to send them an eternal Savior. Prophesied hundreds of years before, the Bible records these promises as the hope for an eternal Savior that would defeat the power of evil."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["53:1", "53:2", "53:3", "53:4", "53:5", "53:6", "53:7", "53:8", "53:9", "53:10", "53:11", "53:12"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 18",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "LUK",
+          "cv":["2:1","2:20"],
+          "fieldInitialValues": {
+            "sectionTitle": "God’s Son and Savior, Jesus, is born",
+            "themeBody": "God loved the world and knew that the only way to restore a right relationship with man was to send a final and complete sacrifice for their sinful ways. God sends His eternal and only Son as the ultimate gift of love.",
+            "reference": "Luke 2:1-20",
+            "principle": "God came to earth in the form of His Son, Jesus, to show us the way back to Him.",
+            "principleMore": "God chose to rescue His people from their own sin by coming to earth in the form of a man named Jesus Christ of Nazareth. God became flesh and dwelt among men."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["2:1", "2:2", "2:3", "2:4", "2:5"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:6", "2:7"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:8", "2:9", "2:10", "2:11", "2:12", "2:13", "2:14"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:15", "2:16", "2:17", "2:18", "2:19", "2:20"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 19",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "MAT",
+          "cv":["3:1","4:11"],
+          "fieldInitialValues": {
+            "sectionTitle": "The Baptism and Temptation of Jesus",
+            "themeBody": "When Jesus began His ministry on earth, He was publicly baptized and then received the anointed blessing of the eternal heavenly Father. Immediately afterwards, Jesus was sent into the wilderness and tested by Satan to see if He would remain faithful to God.",
+            "reference": "Matthew 3:1 - 4:11",
+            "principle": "God wants you to follow Jesus and be baptized so that the “old” patterns of your life will die and your “new” creation in Christ will come alive (2 Corinthians 5:17). When you are baptized in Christ, you will be able to withstand temptation.",
+            "principleMore": "When Jesus began His public ministry and was baptized by John in the river, a voice from heaven was heard announcing that God was pleased. Jesus was then sent to the wilderness and was tested to be sure of His commitment to His eternal Father."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["3:1", "3:2", "3:3"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:4", "3:5", "3:6"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:7", "3:8", "3:9", "3:10"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:11", "3:12"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:13", "3:14"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:15"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:16", "3:17"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:1", "4:2", "4:3"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:4"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:5", "4:6"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:7"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:8", "4:9"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:10"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:11"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 20",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "LUK",
+          "cv":["5:1","5:11"],
+          "fieldInitialValues": {
+            "sectionTitle": "Jesus Calls His Disciples",
+            "themeBody": "Jesus called the people He invited to follow Him – disciples. Each disciple learned that the new priority in their lives was to follow Jesus and invite others to do the same.",
+            "reference": "Luke 5:1-11",
+            "principle": "God wants you to live for Jesus and to live like Jesus. He will use your gifts, skills, and talents for His story.",
+            "principleMore": "Jesus asked for the fisherman’s boat to show that He would use what they had for His eternal purposes. When they yielded to Him, Jesus provided a miracle catch of fish and called them to a life of discipling others."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["5:1", "5:2", "5:3"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["5:4"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["5:5", "5:6", "5:7", "5:8", "5:9", "5:10"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["5:11"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 21",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "MRK",
+          "cv":["2:1","2:12"],
+          "fieldInitialValues": {
+            "sectionTitle": "Jesus Heals the Paralytic",
+            "themeBody": "Jesus alone has the power to heal in the name of the Eternal Creator God. As He heals the paralytic, Jesus demonstrates that He also has the power to forgive sins.",
+            "reference": "Mark 2:1-12",
+            "principle": "Jesus is a Healer and has given you authority to heal in His name. (Matthew 10:1-2)",
+            "principleMore": "While Jesus was teaching a large crowd, some friends of a paralytic brought the sick man to Jesus. Recognizing the faith of these friends, Jesus announced that the man was healed and then forgiven. Jesus alone has the power to heal and to forgive."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["2:1", "2:2", "2:3", "2:4", "2:5"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:6", "2:7"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:8", "2:9", "2:10", "2:11"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:12"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 22",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "JHN",
+          "cv":["4:1","4:42"],
+          "fieldInitialValues": {
+            "sectionTitle": "The Woman at the Well",
+            "themeBody": "Jesus provides living water for all those who are spiritually thirsty.",
+            "reference": "John 4:1-42",
+            "principle": "God wants you to offer others the living hope of His salvation.",
+            "principleMore": "Jesus knows the troubles of the Samaritan woman and desires to heal her broken heart and restore her. He offers living water to quench her thirst and then shares His salvation with her entire village."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["4:1", "4:2", "4:3", "4:4", "4:5", "4:6"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:7", "4:8"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:9"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:10"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:11", "4:12"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:13", "4:14"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:15"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:16"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:17", "4:18"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:19", "4:20"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:21", "4:22", "4:23", "4:24"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:25"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:26"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:27", "4:28", "4:29", "4:30"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:31"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:32"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:33"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:34", "4:35", "4:36", "4:37", "4:38"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["4:39", "4:40", "4:41", "4:42"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 23",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "LUK",
+          "cv":["15:11","15:32"],
+          "fieldInitialValues": {
+            "sectionTitle": "The Prodigal Son",
+            "themeBody": "The Heavenly Father loves His children even when they disobey. However, He will also use the consequences of their sin to turn their hearts toward Him.",
+            "reference": "Luke 15:11-32",
+            "principle": "God has a righteous heart of a father and loves all of His children. When you turn back to God, He will always receive you.",
+            "principleMore": "God used the son’s selfishness to help him understand his need for his father. In the same way, the Heavenly Father uses our own evil actions to help us see our need for Him."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["15:11", "15:12", "15:13", "15:14", "15:15", "15:16", "15:17", "15:18", "15:19"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["15:20", "15:21"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["15:22", "15:23", "15:24"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["15:25", "15:26", "15:27", "15:28", "15:29", "15:30"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["15:31", "15:32"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 24",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "MAT",
+          "cv":["16:13","16:28"],
+          "fieldInitialValues": {
+            "sectionTitle": "Peter Confesses Jesus as the Savior",
+            "themeBody": "Who is Jesus? More than a good man, a teacher, or a healer, Jesus is the Savior, the only one who forgives sin and restores our relationship with the Eternal Father.",
+            "reference": "Matthew 16:13-28",
+            "principle": "Jesus will save you from your sin.",
+            "principleMore": "When Peter declares that Jesus is the Eternal Savior, Jesus responds by affirming this revelation and offering a path for salvation to each of His followers."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["16:13"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["16:14"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["16:15"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["16:16"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["16:17", "16:18", "16:19", "16:20"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["16:21"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["16:22"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["16:23"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["16:24", "16:25", "16:26", "16:27", "16:28"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 25",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "LUK",
+          "cv":["19:1","19:10"],
+          "fieldInitialValues": {
+            "sectionTitle": "Zacchaeus Finds the Savior",
+            "themeBody": "Jesus chooses to be with, to love, and to forgive every person who repents and receives His love.",
+            "reference": "Luke 19:1-10",
+            "principle": "Jesus loves everyone and always chooses to reveal Himself to those who will receive His love.",
+            "principleMore": "Jesus chose to eat dinner with Zacchaeus, the tax collector, because He loves people in need. When Zacchaeus recognized his own shortcomings and promised to pay back everyone he had cheated, Jesus announced that salvation had come to his house."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["19:1", "19:2", "19:3", "19:4", "19:5", "19:6", "19:7"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["19:8"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["19:9", "19:10"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 26",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "LUK",
+          "cv":["22:1","22:22"],
+          "fieldInitialValues": {
+            "sectionTitle": "The Last Passover",
+            "themeBody": "At the end of his life, Jesus called His disciples together to celebrate Passover with Him. At this meal, He explained His role as the ultimate sacrifice for sin, His love for every person, and His redeeming power.",
+            "reference": "Luke 22:1-22",
+            "principle": "Jesus is the perfect sacrifice. He died on the cross to pay the penalty for our sins. We practice communion to remember what Jesus has done.",
+            "principleMore": "Jesus celebrated His last Passover meal with the disciples to show His love and commitment to them. The bread He broke and shared represented His body. Broken for us. The cup represented a new and final covenant of forgiveness through Christ’s suffering on the cross."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["22:1", "22:2"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["22:3", "22:4", "22:5", "22:6"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["22:7", "22:8"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["22:9"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["22:10", "22:11", "22:12"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["22:13"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["22:14", "22:15", "22:16", "22:17", "22:18"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["22:19", "22:20", "22:21", "22:22"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 27",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "MAT",
+          "cv":["26:36","26:56"],
+          "fieldInitialValues": {
+            "sectionTitle": "The Betrayal at the Garden",
+            "themeBody": "On the last night of Jesus’ life before His suffering, He asked His disciples to join with Him in prayer. As He agonized in prayer about the events soon to come, His disciples slept, and then Judas betrayed Him.",
+            "reference": "Matthew 26:36-56",
+            "principle": "Jesus chose to die for your sins.",
+            "principleMore": "Jesus prayed in the Garden, asking the Heavenly Father if it was possible for there to be any other way that He could provide salvation for the world. He then willingly decided to suffer and die for our sins. Then Judas betrayed him."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["26:36", "26:37", "26:38"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["26:39"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["26:40", "26:41"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["26:42"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["26:43", "26:44", "26:45", "26:46"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["26:47", "26:48", "26:49"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["26:50"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["26:51"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["26:52", "26:53", "26:54"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["26:55", "26:56"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 28",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "MAT",
+          "cv":["27:11","27:56"],
+          "fieldInitialValues": {
+            "sectionTitle": "The Trial and Crucifixion of Jesus",
+            "themeBody": "Jesus was turned over to the authorities to be tried, to suffer, and to die for our sins.",
+            "reference": "Matthew 27:11-56",
+            "principle": "Jesus is the perfect sacrifice.",
+            "principleMore": "Jesus willingly chose to suffer and die an excruciating death on the cross. This was the price that needed to be paid for our sins."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["27:11"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:12", "27:13"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:14"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:15", "27:16", "27:17", "27:18"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:19"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:20", "27:21"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:22"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:23"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:24"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:25"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:26"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:27", "27:28", "27:29", "27:30", "27:31"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:32", "27:33", "27:34", "27:35", "27:36", "27:37"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:38"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:39", "27:40"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:41", "27:42", "27:43", "27:44"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:45", "27:46"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:47"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:48", "27:49"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:50"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:51", "27:52", "27:53"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:54"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["27:55", "27:56"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 29",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "LUK",
+          "cv":["24:1","24:53"],
+          "fieldInitialValues": {
+            "sectionTitle": "The Resurrection",
+            "themeBody": "After three days in the tomb, Jesus destroyed the power of evil, was reunited with the heavenly Father, and reappeared to those who believed.",
+            "reference": "Luke 24",
+            "principle": "Jesus is alive!",
+            "principleMore": "After Jesus died on the cross for our sins, He was buried. Three days later, He arose from the dead, conquered sin and death, and returned to Jerusalem to give the final instructions to His followers."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["24:1", "24:2", "24:3", "24:4"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["24:5", "24:6", "24:7"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["24:8", "24:9", "24:10", "24:11", "24:12"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["24:13", "24:14", "24:15", "24:16", "24:17"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["24:18"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["24:19", "24:20", "24:21", "24:22", "24:23", "24:24"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["24:25", "24:26", "24:27"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["24:28"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["24:29"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["24:30", "24:31", "24:32", "24:33", "24:34", "24:35"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["24:36"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["24:37"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["24:38", "24:39", "24:40", "24:41"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["24:42", "24:43", "24:44"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["24:45", "24:46", "24:47", "24:48", "24:49"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["24:50", "24:51", "24:52", "24:53"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 30",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "ACT",
+          "cv":["1:1","1:14"],
+          "fieldInitialValues": {
+            "sectionTitle": "Ascension/Great Commission",
+            "themeBody": "Before Jesus returned to Heaven, He charged His disciples to be filled with the power of the Holy Spirit and to declare His message to everyone on earth.",
+            "reference": "Acts 1:1-14",
+            "principle": "Jesus appeared to His disciples and instructed them to continue His mission to make disciples among every ethnic group in the world.",
+            "principleMore": "Jesus appeared to His disciples many times after His resurrection to prove to them that He was, in fact, the Savior of the world. He instructed them to go into all the earth and do what He had been doing—making disciples by teaching people to obey and baptizing people in the name of the Father, Son, and Holy Spirit."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["1:1", "1:2", "1:3", "1:4", "1:5"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["1:6"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["1:7", "1:8"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["1:9", "1:10", "1:11"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["1:12", "1:13", "1:14"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 31",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "ACT",
+          "cv":["2:1","2:47"],
+          "fieldInitialValues": {
+            "sectionTitle": "The Outpouring",
+            "themeBody": "As Jesus had promised, the power of the Holy Spirit descended on His followers so that they could declare His saving power to the whole earth.",
+            "reference": "Acts 2",
+            "principle": "God gives us His supernatural spiritual power to carry out His great commission.",
+            "principleMore": "On the day of Pentecost, the Holy Spirit came on the disciples and filled them with supernatural power to be a witness of Christ to the world. They spoke in the tongues of those around them and prophesied the works of God to all who could hear."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["2:1", "2:2", "2:3", "2:4"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:5", "2:6", "2:7", "2:8", "2:9", "2:10", "2:11", "2:12", "2:13"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:14", "2:15", "2:16", "2:17", "2:18", "2:19", "2:20", "2:21"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:22", "2:23", "2:24", "2:25", "2:26", "2:27", "2:28"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:29", "2:30", "2:31", "2:32", "2:33", "2:34", "2:35"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:36"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:37"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:38", "2:39", "2:40"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["2:41", "2:42", "2:43", "2:44", "2:45", "2:46", "2:47"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 32",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "ACT",
+          "cv":["3:1","3:20"],
+          "fieldInitialValues": {
+            "sectionTitle": "Jesus’ Followers are Persecuted",
+            "themeBody": "The disciples immediately began to share the things they had seen and heard about Jesus, even when the result brought difficulty and persecution.",
+            "reference": "Acts 3:1-20",
+            "principle": "God is with us when we suffer for Him.",
+            "principleMore": "Those who follow Jesus today can expect to live a life similar to Peter and John. The same miraculous power of God is available to them. At the same time, they should expect others to treat them the same – some received the Good News and others persecuted the believers."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["3:1", "3:2", "3:3", "3:4", "3:5", "3:6", "3:7", "3:8", "3:9", "3:10", "3:11"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:12", "3:13", "3:14", "3:15", "3:16"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:17", "3:18"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["3:19", "3:20", "3:21"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 33",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "ACT",
+          "cv":["9:1","9:31"],
+          "fieldInitialValues": {
+            "sectionTitle": "Paul’s Call to be on Mission With God",
+            "themeBody": "Saul (soon to be called Paul) was fierce in his persecution of Christians until Jesus appeared to him and called him to be a messenger of the Good News to all people.",
+            "reference": "Acts 9:1-31",
+            "principle": "God invites you to join His mission of bringing salvation to all people.",
+            "principleMore": "Jesus invited Saul to join Him on a mission to declare His goodness and salvation to all people. Blinded on the road, but rescued by a fellow believer, Saul’s life was marked by God’s love and given purpose through obedience."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["9:1", "9:2", "9:3", "9:4"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["9:5", "9:6"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["9:7", "9:8", "9:9"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["9:10"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["9:11", "9:12"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["9:13", "9:14"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["9:15", "9:16"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["9:17", "9:18", "9:19", "9:20", "9:21"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["9:22", "9:23", "9:24", "9:25"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["9:26", "9:27", "9:28", "9:29", "9:30"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["9:31"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 34",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "ACT",
+          "cv":["10:1","10:48"],
+          "fieldInitialValues": {
+            "sectionTitle": "Cornelius",
+            "themeBody": "God desires that no one perish without the opportunity to be saved through faith in His Son, Jesus. Cornelius received a vision from God and the help of Peter so that he, too, could be saved.",
+            "reference": "Acts 10",
+            "principle": "God reveals Himself to those who seek Him. When we listen to His voice, God will direct our steps to be a part of His miracles.",
+            "principleMore": "God revealed Himself to Cornelius because Cornelius pursued Him. Just as God orchestrated Peter’s steps to go and minister to Cornelius so will God send us to minister His love and grace to others."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["10:1", "10:2", "10:3"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["10:4", "10:5", "10:6"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["10:7", "10:8"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["10:9", "10:10", "10:11", "10:12", "10:13"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["10:14"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["10:15", "10:16"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["10:17", "10:18", "10:19", "10:20"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["10:21"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["10:22", "10:23", "10:24", "10:25", "10:26", "10:27", "10:28", "10:29"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["10:30", "10:31", "10:32", "10:33"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["10:34", "10:35", "10:36", "10:37", "10:38", "10:39", "10:40", "10:41", "10:42", "10:43"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["10:44", "10:45", "10:46", "10:47", "10:48"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fieldInitialValues": {
+        "sectionNumber": "Story 35",
+        "themeTitle": "Theme",
+        "referenceTitle": "Scripture Text",
+        "scriptureTitle": "The Story",
+        "principleTitle": "Key Principle"
+        },
+      "sections": [
+        {
+          "bookCode": "REV",
+          "cv":["20:11","22:7"],
+          "fieldInitialValues": {
+            "sectionTitle": "Judgment and Heaven",
+            "themeBody": "When we die, every person will stand before God to be judged for how they lived their lives here on earth. He will judge the living and the dead, and those who have not received life in Christ will spend eternity in hell.",
+            "reference": "Revelation 20:11-22:7",
+            "principle": "God is granting each of us an amazing, eternal opportunity to be reconciled to Him.",
+            "principleMore": "Even though we deserve a negative judgment based on our everyday actions, when we receive Jesus into our hearts and become a part of His family, He makes us brand new. At the final judgment, Jesus will stand and take our place. The result will be an invitation to dwell with God for eternity in heaven."
+          },
+          "paragraphs": [
+            {
+              "paraTag": "p",
+              "units": ["20:11", "20:12", "20:13", "20:14", "20:15"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["21:1", "21:2", "21:3", "21:4"]
+            },
+            {
+              "paraTag": "p",
+              "units": ["21:5", "21:6", "21:7"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
