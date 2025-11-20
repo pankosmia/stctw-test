@@ -2,8 +2,8 @@
 	"name": "Stories That Changed the World",
 	"description": "The story of the Creator God revealing His love throughout history and carrying His plan to restore an incredible relationship with you - and with every other person who has ever lived. It opens with a story before the beginning and ends with life after the end!",
 	"copyright": "© William J. Dubois",
-  "short_name": "35 Stories",
-  "version": "0.1-Draft",
+  "short_name": "dubois_35_stories",
+  "version": "0.1.0-Draft",
 	"sectionStructure": [
 		{
 			"type": "paraField",
@@ -52,11 +52,6 @@
 		},
 		{
 			"type": "scripture"
-		},
-		{
-			"type": "paraField",
-			"name": "abridgement",
-			"paraTag": "ipr"
 		},
 		{
 			"type": "paraField",
@@ -490,7 +485,10 @@
             "themeBody": "Joseph was the favorite son of Jacob and the chosen son of Isaac. His brothers, filled with envy, sold him into slavery. But Joseph was faithful to God and honored Him in every circumstance. Through many trials and tests, God eventually exalted him as Prime Minister of Egypt, delivering God’s chosen people in times of great famine and difficulty.",
             "reference": "Genesis 37; 39:22 - 40:4; 45:1-11, 25-28",
             "principle": "God honors those who follow Him and turns every evil intent to a good outcome.",
-            "principleMore": "God chose Joseph from among his brothers to rule over them and to provide for his father’s house during a time of famine. When his brothers’ evil actions caused a series of hardships, Joseph responded to each one by honoring God and living a life of righteousness and integrity. God used the evil intent of others and turned it for the good of His servant Joseph."
+            "principleMore": "God chose Joseph from among his brothers to rule over them and to provide for his father’s house during a time of famine. When his brothers’ evil actions caused a series of hardships, Joseph responded to each one by honoring God and living a life of righteousness and integrity. God used the evil intent of others and turned it for the good of His servant Joseph.",
+            "bridge_joseph_potiphar": "Joseph served faithfully in Potiphar's house but was betrayed by Potiphar's wife and sent to jail.",
+            "bridge_joseph_dreams": "Both of these prisoners came to know that Joseph was able to interpret dreams. After they had been in custody for some time, one was killed and the other, a cup-bearer, was promoted to Pharaoh’s court. Two years later, the cup-bearer remembered Joseph and told Pharaoh that Joseph would be able to interpret his troubling dream. God gave Joseph the ability to interpret Pharaoh’s dream warning of seven years of famine. Pharaoh rewarded Joseph for interpreting the dream by making him second in command over all the land.",
+            "bridge_joseph_famine": "When famine came, just as the dream foretold, the brothers of Joseph came to Egypt looking for food. Joseph provided them food, sent them back to their father, but kept one brother in Egypt to ensure their return."
           },
           "paragraphs": [
             {
@@ -542,7 +540,9 @@
               "units": ["37:33", "37:34", "37:35", "37:36"]
             },
             {
-              "abridgement": "Joseph served faithfully in Potiphar's house but was betrayed by Potiphar's wife and sent to jail."
+              "paraTag": "iex",
+              "cv": ["38:1", "39:19"],
+              "name": "bridge_joseph_potiphar"
             },
             {
               "paraTag": "p",
@@ -553,10 +553,14 @@
               "units": ["40:1", "40:2", "40:3", "40:4"]
             },
             {
-              "abridgement": "Both of these prisoners came to know that Joseph was able to interpret dreams. After they had been in custody for some time, one was killed and the other, a cup-bearer, was promoted to Pharaoh’s court. Two years later, the cup-bearer remembered Joseph and told Pharaoh that Joseph would be able to interpret his troubling dream. God gave Joseph the ability to interpret Pharaoh’s dream warning of seven years of famine. Pharaoh rewarded Joseph for interpreting the dream by making him second in command over all the land."
+              "paraTag": "iex",
+              "cv": ["40:5", "41:57"],
+              "name": "bridge_joseph_dreams"
             },
             {
-              "abridgement": "When famine came, just as the dream foretold, the brothers of Joseph came to Egypt looking for food. Joseph provided them food, sent them back to their father, but kept one brother in Egypt to ensure their return."
+              "paraTag": "iex",
+              "cv": ["42:1", "44:34"],
+              "name": "bridge_joseph_famine"
             },
             {
               "paraTag": "p",
@@ -659,7 +663,8 @@
             "reference": "Exodus 11:4 - 12:36; 14",
             "introBody": "God sent nine plagues to Pharaoh and the Egyptian people in hopes that they would repent and allow the children of Israel to return to the Promised Land. But Pharaoh’s heart was stubborn, and he refused to release Moses and his people.",
             "principle": "God rescues His people from evil.",
-            "principleMore": "When Pharaoh, the evil leader of Egypt, refused to let the Israelites return to their Promised Land, God sent plagues, hardship, and disaster on their land. Eventually, the Israelites were delivered by God out of the hands of Egypt by crossing the Red Sea on dry land."
+            "principleMore": "When Pharaoh, the evil leader of Egypt, refused to let the Israelites return to their Promised Land, God sent plagues, hardship, and disaster on their land. Eventually, the Israelites were delivered by God out of the hands of Egypt by crossing the Red Sea on dry land.",
+            "bridge_leaving_egypt": "That night, 600,000 men, plus all the women and children, left on foot. God led them along a route through the wilderness toward the Red Sea, and the Israelites left Egypt like a marching army. The LORD guided them by a pillar of cloud during the day and a pillar of fire at night. That way, they could travel whether it was day or night. And the LORD did not remove the pillar of cloud or fire from their sight."
           },
           "paragraphs": [
             {
@@ -699,7 +704,9 @@
               "units": ["12:33", "12:34", "12:35", "12:36"]
             },
             {
-              "abridgement": "That night, 600,000 men, plus all the women and children, left on foot. God led them along a route through the wilderness toward the Red Sea, and the Israelites left Egypt like a marching army. The LORD guided them by a pillar of cloud during the day and a pillar of fire at night. That way, they could travel whether it was day or night. And the LORD did not remove the pillar of cloud or fire from their sight."
+              "paraTag": "iex",
+              "cv": ["12:37", "13:22"],
+              "name": "bridge_leaving_egypt"
             },
             {
               "paraTag": "p",
