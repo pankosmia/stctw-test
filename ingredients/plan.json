@@ -842,14 +842,14 @@
           "paraTag": "iex",
           "cv": [
             "40:5",
-            "41:57"
+            "41:52"
           ],
           "name": "bridge_joseph_dreams"
         },
         {
           "paraTag": "iex",
           "cv": [
-            "42:1",
+            "41:53",
             "44:34"
           ],
           "name": "bridge_joseph_famine"
@@ -858,8 +858,8 @@
           "paraTag": "p",
           "units": [
             "45:1",
-            "44:2",
-            "44:3"
+            "45:2",
+            "45:3"
           ]
         },
         {
