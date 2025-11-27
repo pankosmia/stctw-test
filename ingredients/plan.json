@@ -30,7 +30,7 @@
     {
       "type": "paraField",
       "name": "themeBody",
-      "paraTag": "ip"
+      "paraTag": "im"
     },
     {
       "type": "paraField",
@@ -40,7 +40,7 @@
     {
       "type": "paraField",
       "name": "reference",
-      "paraTag": "mr"
+      "paraTag": "im"
     },
     {
       "type": "paraField",
@@ -50,7 +50,7 @@
     {
       "type": "paraField",
       "name": "introBody",
-      "paraTag": "ip"
+      "paraTag": "im"
     },
     {
       "type": "paraField",
@@ -68,7 +68,7 @@
     {
       "type": "paraField",
       "name": "principle",
-      "paraTag": "ip"
+      "paraTag": "im"
     },
     {
       "type": "paraField",
