@@ -58,9 +58,6 @@
       "paraTag": "is2"
     },
     {
-      "type": "scripture"
-    },
-    {
       "type": "paraField",
       "name": "principleTitle",
       "paraTag": "is2"
@@ -74,6 +71,9 @@
       "type": "paraField",
       "name": "principleMore",
       "paraTag": "ip"
+    },
+    {
+      "type": "scripture"
     }
   ],
   "sections": [
