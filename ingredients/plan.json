@@ -14,11 +14,6 @@
   "sectionStructure": [
     {
       "type": "paraField",
-      "name": "sectionNumber",
-      "paraTag": "ms2"
-    },
-    {
-      "type": "paraField",
       "name": "sectionTitle",
       "paraTag": "ms"
     },
@@ -58,9 +53,6 @@
       "paraTag": "is2"
     },
     {
-      "type": "scripture"
-    },
-    {
       "type": "paraField",
       "name": "principleTitle",
       "paraTag": "is2"
@@ -74,6 +66,14 @@
       "type": "paraField",
       "name": "principleMore",
       "paraTag": "ip"
+    },
+    {
+      "type": "paraField",
+      "name": "sectionNumber",
+      "paraTag": "ms2"
+    },
+    {
+      "type": "scripture"
     }
   ],
   "sections": [
