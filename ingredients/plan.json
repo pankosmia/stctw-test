@@ -19,6 +19,11 @@
     },
     {
       "type": "paraField",
+      "name": "sectionNumber",
+      "paraTag": "ms2"
+    },
+    {
+      "type": "paraField",
       "name": "themeTitle",
       "paraTag": "is2"
     },
@@ -49,11 +54,6 @@
     },
     {
       "type": "paraField",
-      "name": "scriptureTitle",
-      "paraTag": "is2"
-    },
-    {
-      "type": "paraField",
       "name": "principleTitle",
       "paraTag": "is2"
     },
@@ -69,8 +69,8 @@
     },
     {
       "type": "paraField",
-      "name": "sectionNumber",
-      "paraTag": "ms2"
+      "name": "scriptureTitle",
+      "paraTag": "is2"
     },
     {
       "type": "scripture"
