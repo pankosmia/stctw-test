@@ -14,6 +14,51 @@
   "sectionStructure": [
     {
       "type": "paraField",
+      "name": "templateTitle",
+      "paraTag": "ms"
+    },
+    {
+      "type": "paraField",
+      "name": "prefaceA",
+      "paraTag": "im"
+    },
+    {
+      "type": "paraField",
+      "name": "prefaceB",
+      "paraTag": "ip"
+    },
+    {
+      "type": "paraField",
+      "name": "prefaceC",
+      "paraTag": "ip"
+    },
+    {
+      "type": "paraField",
+      "name": "prefaceD",
+      "paraTag": "ip"
+    },
+    {
+      "type": "paraField",
+      "name": "prefaceE",
+      "paraTag": "ip"
+    },
+    {
+      "type": "paraField",
+      "name": "prefaceF",
+      "paraTag": "ip"
+    },
+    {
+      "type": "paraField",
+      "name": "prefaceG",
+      "paraTag": "ip"
+    },
+    {
+      "type": "paraField",
+      "name": "prefaceH",
+      "paraTag": "ip"
+    },
+    {
+      "type": "paraField",
       "name": "sectionTitle",
       "paraTag": "ms"
     },
@@ -84,6 +129,15 @@
         "2:3"
       ],
       "fieldInitialValues": {
+        "templateTitle": "Stories That Changed the World",
+        "prefaceA": "It is no accident that you are holding this book in your hand. The eternal God knows you, loves you, and even schedules out your life before it begins! The psalmist recorded in Psalms 139:16: “Your eyes saw my unformed body. All the days ordained for me were written in your book before one of them came to be.” Putting this book together was a life-transforming process for me, and I know that when you read this book and share it with others, it will change your life, too!",
+        "prefaceB": "Unlike other books that describe the lives and events of well-known people, “Stories That Changed the World” tells of the Creator God revealing His love throughout history and carrying His plan to restore an incredible relationship with you – and with every other person who has ever lived. The book opens with a story before the beginning and ends with life after the end! To help you understand each story, I have included a title, a story theme, and a Scripture reference from the Bible.",
+        "prefaceC": "Getting the Most from This Book",
+        "prefaceD": "If you are leading a children’s club, a Bible study, a small group, a house church, or even teaching/preaching in a community of believers, “Stories That Changed the World” has been written just for you.",
+        "prefaceE": "As a leader, you will glean the most from this book by allowing the truth of each story to impact you. Take the time to review, reflect, and respond to each story. Then repeat the story with others in your group, encouraging them to follow the same learning pattern with their friends and family. You may also add an object lesson or a drama sketch to bring each story to life.",
+        "prefaceF": "You will be amazed at the impact “Stories That Changed the World” will have on you and those you serve. Be careful not to merely “teach” others what you have learned from each story. Instead, encourage every person in your group to follow the “learning pattern” of Review, Reflect, Respond, and Repeat.",
+        "prefaceG": "As you follow this pattern and repeat the stories to one another, allow the carefully chosen questions to be a guide for learning. The Holy Spirit will be your teacher! Jesus set this teaching pattern in place for us when He said in John 16:13, “But when He, the Spirit of truth, comes, he will guide you into all truth. He will not speak on his own; he will speak only what he hears, and he will tell you what is yet to come.”",
+        "prefaceH": "Are you ready for the Spirit of truth to begin working in you…and in the lives of people you serve? Turn the page and begin with Story #1!",
         "sectionNumber": "Story 1",
         "sectionTitle": "How it All Began",
         "themeBody": "In the beginning, before there was anything, there was God. He is love and desired nothing more than to reveal His love to every person. He took something formless and dark and created beauty. He called it the heavens and the earth and then placed man and woman in the midst of this garden to enjoy Him and His creation.",
